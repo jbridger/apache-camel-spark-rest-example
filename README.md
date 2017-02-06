@@ -1,0 +1,1 @@
+Based on: https://github.com/apache/camel/tree/master/examples/camel-example-spark-rest
